@@ -24,22 +24,11 @@ As a proud **TCF'22** alumnus, I bring a unique perspective to technology — bl
 
 ### Automation & Workflow
 ![n8n](https://img.shields.io/badge/n8n-0A6B5E?style=flat-square&logo=n8n&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
-![Make](https://img.shields.io/badge/Make-6C47FF?style=flat-square&logo=make&logoColor=white)
-
-### AI & Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
 ### Development
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 ### Databases & Tools
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
@@ -55,7 +44,7 @@ As a proud **TCF'22** alumnus, I bring a unique perspective to technology — bl
 - Creating webhook integrations
 - Building notification systems
 
-### 🧠 AI-Powered Chatbot System
+###  AI-Powered Chatbot System
 > *Developing conversational AI agents with custom knowledge bases*
 
 **Technologies:** OpenAI API, Python, Flask, Vector Databases
@@ -63,7 +52,7 @@ As a proud **TCF'22** alumnus, I bring a unique perspective to technology — bl
 - Creating custom prompt engineering solutions
 - Building chatbot interfaces
 
-### 📊 Data Integration Platform
+###  Data Integration Platform
 > *Connecting disparate systems for seamless data flow*
 
 **Technologies:** Node.js, REST APIs, Webhooks, MongoDB
@@ -73,7 +62,7 @@ As a proud **TCF'22** alumnus, I bring a unique perspective to technology — bl
 
 ---
 
-## 📈 GitHub Contributions
+##  GitHub Contributions
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibad-uddin&show_icons=true&theme=radical&hide_title=true)
 
