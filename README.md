@@ -1,8 +1,9 @@
 # 👋 Hi, I'm Ibad Uddin
 
-**AI Automation & Workflow Enthusiast | n8n Developer | BSACF Student**
+ **AI Automation & Workflow Enthusiast | n8n Developer | BSACF Student**
+ 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ibad-uddin/ibad-uddin/main/profile.jpeg" alt="Ibad Uddin's Profile Picture" width="650" height="200" style="border-radius: 50%;"/>
+  <img src="https://raw.githubusercontent.com/ibad-uddin/ibad-uddin/main/profile.jpeg" alt="Ibad Uddin's Profile Picture" width="680" height="200" style="border-radius: 100%;"/>
 </div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibad-uddin-082963323/)
